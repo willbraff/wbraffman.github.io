@@ -1,0 +1,14 @@
+Package: com.gmoran.iandroid_2.1_iphoneos-arm
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: wbraffman <wbraffman@gmail.com>
+Depends: iOS Firmware <11.0
+Filename: /iandroid.deb
+Size: 11873
+MD5sum: 20dd006c1baa93e8301e4a27f806eb17
+SHA1: 41b47ab2D65dab841a092d64052abeeb5c1c0280
+SHA256: c027ecbc3462d18592b79714728bf3138f88f9989d189d6e97215b8db29d13d9
+Section: Emulators
+Description: android emulator
+Author: wbraffman <wbraffman@gmail.com>
+Name: iandroid
